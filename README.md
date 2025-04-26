@@ -1,4 +1,3 @@
-<!-- README.md -->
 
 <!-- Top header with purple wave -->
 <p align="center">
@@ -59,8 +58,8 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-9F00FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-9F00FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:hello@xiansaiful.com"><img src="https://img.shields.io/badge/Email-9F00FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/xiansaiful"><img src="https://img.shields.io/badge/LinkedIn-9F00FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://xiansaiful.com"><img src="https://img.shields.io/badge/Portfolio-9F00FF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
