@@ -80,6 +80,15 @@
 
 ---
 
+
+
+## 🌟 Client Reviews
+<div align="center" style="overflow-x: auto; white-space: nowrap; padding: 20px;"> <table> <tr> <td style="min-width: 300px; background-color: #0D1117; border: 2px solid #9F00FF; border-radius: 10px; padding: 20px; margin: 10px;"> <h3 align="center" style="color: #9F00FF;">🚀 John Doe</h3> <p align="center" style="color: white;">"Xian's work is absolutely top-notch! He delivered my project ahead of schedule with incredible attention to detail. Highly recommended!"</p> </td> <td style="min-width: 300px; background-color: #0D1117; border: 2px solid #9F00FF; border-radius: 10px; padding: 20px; margin: 10px;"> <h3 align="center" style="color: #9F00FF;">✨ Jane Smith</h3> <p align="center" style="color: white;">"From concept to execution, Xian made the entire process seamless and professional. I can't wait to work with him again!"</p> </td> <td style="min-width: 300px; background-color: #0D1117; border: 2px solid #9F00FF; border-radius: 10px; padding: 20px; margin: 10px;"> <h3 align="center" style="color: #9F00FF;">🎯 Michael Brown</h3> <p align="center" style="color: white;">"Exceptional talent! Xian transformed our outdated website into a stunning, modern platform. Five stars!"</p> </td> <td style="min-width: 300px; background-color: #0D1117; border: 2px solid #9F00FF; border-radius: 10px; padding: 20px; margin: 10px;"> <h3 align="center" style="color: #9F00FF;">🌟 Emily Davis</h3> <p align="center" style="color: white;">"Working with Xian was a breeze! His communication and technical skills are unmatched. Highly recommend."</p> </td> </tr> </table> </div>
+
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9F00FF&height=120&section=footer"/>
 </p>
+
+
