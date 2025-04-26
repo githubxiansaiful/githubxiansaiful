@@ -34,7 +34,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xiansaiful&show_icons=true&theme=react&title_color=9F00FF&icon_color=9F00FF&text_color=ffffff&bg_color=0D1117&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xiansaiful&show_icons=true&count_private=true&theme=react&title_color=9F00FF&icon_color=9F00FF&text_color=ffffff&bg_color=0D1117&hide_border=true" width="48%" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=xiansaiful&theme=react&hide_border=true&stroke=9F00FF&background=0D1117&ring=9F00FF&currStreakLabel=9F00FF" width="48%" />
 </div>
 
@@ -43,6 +44,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiansaiful&layout=compact&theme=react&title_color=9F00FF&text_color=ffffff&bg_color=0D1117&hide_border=true" width="50%" />
 </div>
+
 
 ---
 
