@@ -7,12 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=B44DFF&center=true&vCenter=true&width=700&height=50&lines=AI+Engineer+%7C+LLM+%26+Agent+Builder;Full+Stack+Developer+%E2%80%94+MERN+%26+Next.js;WordPress+%2B+Headless+CMS+Expert;I+turn+ideas+into+production-ready+products;Building+the+future+in+2027+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xiansaiful&label=Profile%20Views&color=9F00FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/xiansaiful?style=for-the-badge&color=9F00FF&logo=github" />
-  <img src="https://img.shields.io/badge/Status-Open%20for%20Work-00C853?style=for-the-badge" />
-</p>
-
 ---
 
 ## 👋 About Me
